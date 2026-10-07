@@ -16,19 +16,28 @@ I'm a Computer Science & Engineering student interested in Artificial Intelligen
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 🤖 AI & Machine Learning
+
+Python • NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning • NLP
+
+### 🧠 AI/ML Concepts
+
+Supervised Learning • Unsupervised Learning • Data Preprocessing •
+Feature Engineering • Model Evaluation • Natural Language Processing
+
+### 👨‍💻 Programming
 
 C • Python • JavaScript • SQL
 
-**Web Development**
+### 🌐 Web Development
 
 HTML • CSS • React • Node.js • Express.js
 
-**Databases**
+### 🗄️ Databases
 
 MongoDB • PostgreSQL
 
-**Tools**
+### 🔧 Tools
 
 Git • GitHub • VS Code
 
