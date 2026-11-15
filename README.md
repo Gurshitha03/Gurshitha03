@@ -1,12 +1,22 @@
  <div align="center">
+  <img
+    src="Pastel%20AI%20Study%20Desk%20at%20Sunset.png"
+    width="100%"
+    alt="Gurshitha's pastel developer banner"
+  />
+</div>
 
-# 🌷 Hi, I'm Gurshitha Naidu Kota ♡
+<br/>
 
-### ✨ Welcome to my little corner of GitHub ✨
+<div align="center">
 
-**Computer Science & Engineering Student | AI/ML Enthusiast | Aspiring Developer**
+### 🌷 Computer Science Student | AI/ML Enthusiast
 
-*Learning, experimenting and building something meaningful every day.*
+*Exploring AI, NLP and Full-Stack Development.*
+
+💜 Learning • Building • Growing 💜
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gurshitha03-C8A2C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurshitha03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E6A8D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurshitha-naidu-kota-bb5544367/)
@@ -79,11 +89,24 @@
 <tr>
 <td width="50%">
 
-### 🎓 Student Utility Hub
 
-A student-focused full-stack web application for organizing academic resources and tasks.
+### 📧 Email Triage OpenEnv
 
-**Tech Stack:** React · Node.js · Express.js · MongoDB
+An interactive OpenEnv-based email triage environment where AI agents classify incoming emails as spam, important, or urgent.
+
+**Features:**
+- 📩 Multi-level email classification
+- 🤖 AI-agent interaction
+- 🏆 Reward-based evaluation
+- 🖥️ Interactive web interface
+- 🐳 Docker-based deployment
+
+**Tech Stack:** Python · OpenEnv · Docker · Qwen
+
+[![Live Demo](https://img.shields.io/badge/🤗_Live_Demo-Hugging_Face-EADCF8?style=for-the-badge)](https://huggingface.co/spaces/Gurshitha/email-env)
+
+[View Source](https://huggingface.co/spaces/Gurshitha/email-env)
+
 
 </td>
 <td width="50%">
@@ -105,13 +128,17 @@ Currently learning Machine Learning and Artificial Intelligence through hands-on
 </tr>
 </table>
 
-## 📊 My GitHub Garden
+## 📊 My GitHub Garden 🌷
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurshitha03&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=15)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurshitha03&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=15" alt="GitHub Stats"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurshitha03&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=15)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurshitha03&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=15" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Gurshitha03&theme=catppuccin-latte&hide_border=true&border_radius=15" alt="GitHub Contribution Streak"/>
 
 </div>
 
