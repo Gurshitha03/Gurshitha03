@@ -1,10 +1,21 @@
-# Hi 👋, I'm Gurshitha Naidu Kota
+ <div align="center">
 
-### 💻 Computer Science & Engineering Student | 🤖 AI/ML Enthusiast
+# 🌷 Hi, I'm Gurshitha Naidu Kota ♡
 
-I'm a Computer Science & Engineering student interested in Artificial Intelligence, Machine Learning, software development, and problem solving.
+### ✨ Welcome to my little corner of GitHub ✨
 
-## 🚀 About Me
+**Computer Science & Engineering Student | AI/ML Enthusiast | Aspiring Developer**
+
+*Learning, experimenting and building something meaningful every day.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Gurshitha03-C8A2C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurshitha03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E6A8D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurshitha-naidu-kota-bb5544367/)
+
+🌸 ──────────────── ♡ ──────────────── 🌸
+
+</div>
+
+## 🎀 About Me
 
 - 🎓 Computer Science & Engineering Student
 - 🤖 Interested in Artificial Intelligence & Machine Learning
@@ -14,72 +25,110 @@ I'm a Computer Science & Engineering student interested in Artificial Intelligen
 - 🗄️ Learning SQL and databases
 - 🌱 Always learning and building
 
-## 🛠️ Tech Stack
+## 🧁 My Tech Universe
 
 ### 🤖 AI & Machine Learning
 
-Python • NumPy • Pandas • Matplotlib • Scikit-learn • Machine Learning • NLP
+![Python](https://img.shields.io/badge/Python-DCC6F0?style=flat-square&logo=python&logoColor=49356B)
+![NumPy](https://img.shields.io/badge/NumPy-EADCF8?style=flat-square&logo=numpy&logoColor=49356B)
+![Pandas](https://img.shields.io/badge/Pandas-F8DCEB?style=flat-square&logo=pandas&logoColor=8B4775)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-EADCF8?style=flat-square&logo=python&logoColor=49356B)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F8DCEB?style=flat-square&logo=scikitlearn&logoColor=8B4775)
+
+`Machine Learning` · `NLP` · `Artificial Intelligence`
 
 ### 🧠 AI/ML Concepts
 
-Supervised Learning • Unsupervised Learning • Data Preprocessing •
-Feature Engineering • Model Evaluation • Natural Language Processing
+`Supervised Learning` · `Unsupervised Learning` · `Data Preprocessing` · `Feature Engineering` · `Model Evaluation` · `Natural Language Processing`
 
-### 👨‍💻 Programming
+### 👩🏻‍💻 Programming
 
-C • Python • JavaScript • SQL
+![C](https://img.shields.io/badge/C-DCC6F0?style=flat-square&logo=c&logoColor=49356B)
+![Python](https://img.shields.io/badge/Python-F8DCEB?style=flat-square&logo=python&logoColor=49356B)
+![JavaScript](https://img.shields.io/badge/JavaScript-EADCF8?style=flat-square&logo=javascript&logoColor=49356B)
+![SQL](https://img.shields.io/badge/SQL-F8DCEB?style=flat-square&logo=postgresql&logoColor=49356B)
 
 ### 🌐 Web Development
 
-HTML • CSS • React • Node.js • Express.js
+![HTML](https://img.shields.io/badge/HTML-EADCF8?style=flat-square&logo=html5&logoColor=49356B)
+![CSS](https://img.shields.io/badge/CSS-F8DCEB?style=flat-square&logo=css3&logoColor=8B4775)
+![React](https://img.shields.io/badge/React-DCC6F0?style=flat-square&logo=react&logoColor=49356B)
+![Node.js](https://img.shields.io/badge/Node.js-EADCF8?style=flat-square&logo=nodedotjs&logoColor=49356B)
+![Express](https://img.shields.io/badge/Express-F8DCEB?style=flat-square&logo=express&logoColor=49356B)
 
-### 🗄️ Databases
+### 🗄️ Databases & Tools
 
-MongoDB • PostgreSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-DCC6F0?style=flat-square&logo=mongodb&logoColor=49356B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-F8DCEB?style=flat-square&logo=postgresql&logoColor=49356B)
+![Git](https://img.shields.io/badge/Git-EADCF8?style=flat-square&logo=git&logoColor=49356B)
+![GitHub](https://img.shields.io/badge/GitHub-DCC6F0?style=flat-square&logo=github&logoColor=49356B)
+![VS Code](https://img.shields.io/badge/VS_Code-F8DCEB?style=flat-square&logo=visualstudiocode&logoColor=49356B)
 
-### 🔧 Tools
+## 🌷 Currently Learning
 
-Git • GitHub • VS Code
+- 🐍 Python
+- 💻 Data Structures & Algorithms
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 💬 Natural Language Processing
+- ✨ AI & Language Technologies
 
-## 📚 Currently Learning
+## 🪻 Featured Projects
 
-- Python
-- Data Structures & Algorithms
-- Machine Learning
-- Artificial Intelligence
-- Natural Language Processing
-- AI & Language Technologies
-
-## 🚀 Projects
+<table>
+<tr>
+<td width="50%">
 
 ### 🎓 Student Utility Hub
 
 A student-focused full-stack web application for organizing academic resources and tasks.
 
-**Tech:** React • Node.js • Express.js • MongoDB
+**Tech Stack:** React · Node.js · Express.js · MongoDB
+
+</td>
+<td width="50%">
 
 ### 🌐 Full-Stack Projects
 
-Building web applications while learning frontend development, backend APIs, authentication, and database integration.
+Building web applications while learning frontend development, backend APIs, authentication and database integration.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### 🤖 AI/ML Projects
 
 Currently learning Machine Learning and Artificial Intelligence through hands-on practice and projects.
 
-## 🎯 My Goal
+</td>
+</tr>
+</table>
 
-To become a strong software engineer with a focus on Artificial Intelligence and Machine Learning, while continuously improving my problem-solving and development skills.
+## 📊 My GitHub Garden
 
-## 📊 GitHub
+<div align="center">
 
-I'm consistently practicing, learning, and building projects to improve my technical skills.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurshitha03&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=15)
 
-## 📫 Connect With Me
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurshitha03&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=15)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gurshitha_Naidu_Kota-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gurshitha-naidu-kota-bb5544367/)
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gurshitha03-black?style=for-the-badge&logo=github)](https://github.com/Gurshitha03)
+## 🎯 My Dream
 
----
+To become a strong Software Engineer with a focus on Artificial Intelligence and Machine Learning, while continuously improving my problem-solving and development skills.
 
-⭐ Always learning. Always building.
+## 💌 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurshitha-naidu-kota-bb5544367/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-E6A8D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurshitha03)
+
+🌸 *Dream big, keep learning and build beautiful things.* 🌸
+
+**Thanks for visiting my profile! ♡**
+
+</div>
