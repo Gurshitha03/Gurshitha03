@@ -1,14 +1,12 @@
- <div align="center">
-  <img
-    src="Pastel%20AI%20Study%20Desk%20at%20Sunset.png"
-    width="100%"
-    alt="Gurshitha's pastel developer banner"
-  />
+<div align="center">
+  <img src="Pastel%20AI%20Study%20Desk%20at%20Sunset.png" width="100%" alt="Gurshitha's pastel developer banner"/>
 </div>
 
 <br/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A875C8&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Aspiring+Software+Engineer;Exploring+NLP+%26+Generative+AI;Building+Intelligent+Solutions" alt="Typing SVG"/>
 
 ### 🌷 Computer Science Student | AI/ML Enthusiast
 
@@ -87,8 +85,7 @@
 
 <table>
 <tr>
-<td width="50%">
-
+<td width="50%" valign="top">
 
 ### 📧 Email Triage OpenEnv
 
@@ -107,9 +104,8 @@ An interactive OpenEnv-based email triage environment where AI agents classify i
 
 [View Source](https://huggingface.co/spaces/Gurshitha/email-env)
 
-
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Full-Stack Projects
 
@@ -132,30 +128,42 @@ Currently learning Machine Learning and Artificial Intelligence through hands-on
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurshitha03&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=15" alt="GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gurshitha03&theme=buefy" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurshitha03&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=15" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gurshitha03&theme=buefy" alt="Top Languages"/>
 
 <br/><br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=Gurshitha03&theme=catppuccin-latte&hide_border=true&border_radius=15" alt="GitHub Contribution Streak"/>
 
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gurshitha03&bg_color=ffffff&color=8b5cf6&line=d8a7e8&point=ec4899&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+
 </div>
 
-## 🎯 My Dream
+## 🎯 Career Objective
 
-To become a strong Software Engineer with a focus on Artificial Intelligence and Machine Learning, while continuously improving my problem-solving and development skills.
+Aspiring Software Engineer with a strong interest in Artificial Intelligence, Machine Learning, and Natural Language Processing. Focused on strengthening problem-solving abilities, developing practical software solutions, and exploring AI-driven technologies. Passionate about continuous learning, technical innovation, and building impactful applications.
 
 ## 💌 Let's Connect!
 
 <div align="center">
 
+I'm always interested in connecting with fellow developers, exploring new technologies and learning through collaboration.
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurshitha-naidu-kota-bb5544367/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-E6A8D7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gurshitha03)
 
-🌸 *Dream big, keep learning and build beautiful things.* 🌸
+<br/>
+
+🌸 *Dream big. Keep learning. Build with purpose.*
 
 **Thanks for visiting my profile! ♡**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EADCF8,50:F8DCEB,100:DCC6F0&height=120&section=footer" width="100%" alt="Pastel lavender and pink footer"/>
